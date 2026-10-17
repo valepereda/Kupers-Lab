@@ -1,0 +1,6 @@
+trial,target,foil,quadrant,targetSide,response,correct,rt
+1,person1.jpg,person3.jpg,TR,right,right,1,0.5013042
+2,person2.jpg,person4.jpg,BR,left,right,0,0.2242329
+3,person3.jpg,person4.jpg,BL,left,right,0,0.2812492
+4,person4.jpg,person1.jpg,TR,right,right,1,0.3056726
+5,person5.jpg,person2.jpg,BL,left,right,0,0.4158304
